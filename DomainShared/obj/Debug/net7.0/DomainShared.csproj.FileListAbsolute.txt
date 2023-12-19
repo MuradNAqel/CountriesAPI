@@ -1,0 +1,11 @@
+D:\SelfLearning\API\OneToMany\CountriesAPI\DomainShared\bin\Debug\net7.0\DomainShared.deps.json
+D:\SelfLearning\API\OneToMany\CountriesAPI\DomainShared\bin\Debug\net7.0\DomainShared.dll
+D:\SelfLearning\API\OneToMany\CountriesAPI\DomainShared\bin\Debug\net7.0\DomainShared.pdb
+D:\SelfLearning\API\OneToMany\CountriesAPI\DomainShared\obj\Debug\net7.0\DomainShared.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\API\OneToMany\CountriesAPI\DomainShared\obj\Debug\net7.0\DomainShared.AssemblyInfoInputs.cache
+D:\SelfLearning\API\OneToMany\CountriesAPI\DomainShared\obj\Debug\net7.0\DomainShared.AssemblyInfo.cs
+D:\SelfLearning\API\OneToMany\CountriesAPI\DomainShared\obj\Debug\net7.0\DomainShared.csproj.CoreCompileInputs.cache
+D:\SelfLearning\API\OneToMany\CountriesAPI\DomainShared\obj\Debug\net7.0\DomainShared.dll
+D:\SelfLearning\API\OneToMany\CountriesAPI\DomainShared\obj\Debug\net7.0\refint\DomainShared.dll
+D:\SelfLearning\API\OneToMany\CountriesAPI\DomainShared\obj\Debug\net7.0\DomainShared.pdb
+D:\SelfLearning\API\OneToMany\CountriesAPI\DomainShared\obj\Debug\net7.0\ref\DomainShared.dll

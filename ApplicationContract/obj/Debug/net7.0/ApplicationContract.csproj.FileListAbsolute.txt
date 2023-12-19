@@ -1,0 +1,15 @@
+D:\SelfLearning\API\OneToMany\CountriesAPI\ApplicationContract\bin\Debug\net7.0\ApplicationContract.deps.json
+D:\SelfLearning\API\OneToMany\CountriesAPI\ApplicationContract\bin\Debug\net7.0\ApplicationContract.dll
+D:\SelfLearning\API\OneToMany\CountriesAPI\ApplicationContract\bin\Debug\net7.0\ApplicationContract.pdb
+D:\SelfLearning\API\OneToMany\CountriesAPI\ApplicationContract\bin\Debug\net7.0\Domain.dll
+D:\SelfLearning\API\OneToMany\CountriesAPI\ApplicationContract\bin\Debug\net7.0\Domain.pdb
+D:\SelfLearning\API\OneToMany\CountriesAPI\ApplicationContract\obj\Debug\net7.0\ApplicationContract.csproj.AssemblyReference.cache
+D:\SelfLearning\API\OneToMany\CountriesAPI\ApplicationContract\obj\Debug\net7.0\ApplicationContract.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\API\OneToMany\CountriesAPI\ApplicationContract\obj\Debug\net7.0\ApplicationContract.AssemblyInfoInputs.cache
+D:\SelfLearning\API\OneToMany\CountriesAPI\ApplicationContract\obj\Debug\net7.0\ApplicationContract.AssemblyInfo.cs
+D:\SelfLearning\API\OneToMany\CountriesAPI\ApplicationContract\obj\Debug\net7.0\ApplicationContract.csproj.CoreCompileInputs.cache
+D:\SelfLearning\API\OneToMany\CountriesAPI\ApplicationContract\obj\Debug\net7.0\ApplicationContract.csproj.CopyComplete
+D:\SelfLearning\API\OneToMany\CountriesAPI\ApplicationContract\obj\Debug\net7.0\ApplicationContract.dll
+D:\SelfLearning\API\OneToMany\CountriesAPI\ApplicationContract\obj\Debug\net7.0\refint\ApplicationContract.dll
+D:\SelfLearning\API\OneToMany\CountriesAPI\ApplicationContract\obj\Debug\net7.0\ApplicationContract.pdb
+D:\SelfLearning\API\OneToMany\CountriesAPI\ApplicationContract\obj\Debug\net7.0\ref\ApplicationContract.dll
